@@ -1,2 +1,12 @@
-# NuGetPackages
-List of handy NuGet packages
+# NuGet Packages
+* Autofac
+* AutoMapper
+* AutoFixture
+* FluentAssertions
+* FluentValidations
+* IdentityServer
+* Moq
+* Polly
+* Quartz.NET
+* Serilog
+* Swashbuckle
