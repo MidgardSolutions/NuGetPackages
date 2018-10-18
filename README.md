@@ -7,6 +7,7 @@
 * IdentityServer
 * Moq
 * NSwag
+* RedLock.net
 * Polly
 * Quartz.NET
 * Serilog
