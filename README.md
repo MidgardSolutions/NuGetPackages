@@ -6,6 +6,7 @@
 * FluentValidations
 * IdentityServer
 * Moq
+* NSwag
 * Polly
 * Quartz.NET
 * Serilog
