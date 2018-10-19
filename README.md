@@ -2,6 +2,7 @@
 * Autofac
 * AutoMapper
 * AutoFixture
+* FastMember
 * FluentAssertions
 * FluentValidations
 * IdentityServer
