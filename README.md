@@ -2,6 +2,7 @@
 * Autofac
 * AutoMapper
 * AutoFixture
+* Enums.NET
 * FastMember
 * FluentAssertions
 * FluentValidations
