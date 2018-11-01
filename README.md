@@ -5,8 +5,9 @@
 * Enums.NET
 * FastMember
 * FluentAssertions
-* FluentValidations
+* FluentValidation
 * IdentityServer
+* Mehdime.Entity
 * Moq
 * NSwag
 * RedLock.net
